@@ -1,27 +1,28 @@
 # Fish-Network
-Bateau autonome visant à localiser les grandes zones à déchets (plastiques) afin de pouvoir les extraires de manière pertinente.
+Autonomous boat aiming to locate large waste areas (plastics) in order to extract them in a relevant way.
 
-Idée de depart:
+Starting idea:
 
-Ce projet a pour but de redonner un élan de fraîcheur au traitement des déchets de nos océans, jusqu’ici aucune mesure n’a été prise par notre gouvernement afin de gérer ces 20 milliards de tonnes par an qui se diverse dans no océans.
+This project aims to give a fresh impulse to the treatment of the waste of our oceans, until now no measure was taken by our government in order to manage these 20 billion tons per year which are diverse in our oceans.
 
-Nous devons donc devenir acteur de ce changement,  c’est pourquoi notre projet semble pragmatique et surtout nécessaire à notre plan écologique mondial.
+We must therefore become an actor of this change, that is why our project seems pragmatic and especially necessary to our global ecological plan.
 
-Ce projet vise à simuler un réseau à échelle réduite (bateaux téléguidés, communication de proximité immédiate, action sur des zones réduites - piscines, lacs, etc) afin de coder et tester un algorithme de reconnaissance des déchets ainsi que les méthodes de récupération.
+This project aims to simulate a small-scale network (remote-controlled boats, immediate proximity communication, action on small areas - pools, lakes, etc.) in order to code and test a waste recognition algorithm and recovery methods.
 
-Actuellement il existe un nombre de projets qui s’occupent de manière automatique de la récupération de déchets dans les eaux proches des terres, mais inefficaces dans les eaux lointaines, tels que SeabinV5, TrashWheel ou WasteShark, ainsi que des proches de récupération des déchets au large des mers et océans tels que System 001 qui néanmoins nécessitent une opération manuelle. Le but de ce projet est de réunir les avantages des deux versions - processus automatique et opération loin des côtes terrestres, dans les parties océaniques et maritimes les plus inaccessibles, afin de déployer un réseau automatique de vaisseaux localisant les déchets à ces endroits.
+Currently there are a number of projects that deal automatically with the recovery of waste in near-shore waters, but inefficiently in distant waters, such as SeabinV5, TrashWheel or WasteShark, as well as close to the recovery of waste off the seas and oceans such as System 001 which nevertheless require a manual operation. The goal of this project is to combine the advantages of both versions - automatic process and operation far from land shores, in the most inaccessible parts of the ocean and sea, in order to deploy an automatic network of vessels locating waste at these locations.
 
-Enjeux societaux:
-
-
-Si notre projet se répand sur le globe, nous pouvons réduire d’au moins de moitié la quantité de déchet déjà présente, tout en régulant les nouveaux arrivants. Ce qui permettra d’assainir les littoraux, tout préservant l’habitat des populations locales.
+Societal issues:
 
 
-Raison d’être:
+If our project spreads across the globe, we can reduce the amount of waste already present by at least half, while regulating new arrivals. This will allow us to clean up the coastlines, while preserving the habitat of the local populations.
 
-Suite au dernier rapport du GIEC, ce sont plus de 20 milliards de tonnes de déchets qui sont déversées dans les océans.. Cette pollution venant à 80% de la pollution terrestre, affectant les écosystèmes, devrait se poursuivre ces prochaines années. La perte de capital naturel causée par cette pollution sur la seule pêche et sur le tourisme se chiffre déjà à 8 milliards de dollars par an.
-Problème, en dehors de l’aspect financier, un bon tiers de ces déchets plastiques, soit une centaine de millions de tonnes, échappe à tout traitement (mise en décharge, incinération, recyclage) et part se perdre dans la nature. Les 9/10ème de ces « fuites » vont se répandre et s'accumuler dans les écosystèmes terrestres mais surtout dans les milieux marins. 
-A cette même échéance et si rien n'est entrepris pour l'empêcher, les mers du globe porteront le même poids de déchets que de poissons, selon la Fondation Ellen MacArthur.
+
+Reason to be :
+
+According to the latest IPCC report, more than 20 billion tons of waste are dumped into the oceans. This pollution coming from 80% of the terrestrial pollution, affecting the ecosystems, is expected to continue in the coming years. The loss of natural capital caused by this pollution on fishing and tourism alone already amounts to 8 billion dollars per year.
+The problem is that, apart from the financial aspect, a good third of this plastic waste, i.e. a hundred million tons, escapes any treatment (landfill, incineration, recycling) and is lost in nature. The 9/10th of this "leakage" will spread and accumulate in terrestrial ecosystems but especially in marine environments. 
+By the same date and if nothing is done to prevent it, the world's seas will carry the same weight of waste as fish, according to the Ellen MacArthur Foundation.
+
 
 
 
